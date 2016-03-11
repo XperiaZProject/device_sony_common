@@ -135,8 +135,7 @@ PRODUCT_PACKAGES += \
 
 # AOSP Packages
 PRODUCT_PACKAGES += \
-    InCallUI \
-    Launcher3
+    InCallUI 
 
 PRODUCT_PACKAGES += \
     libion \
